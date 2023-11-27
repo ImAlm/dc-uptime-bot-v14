@@ -1,0 +1,21 @@
+{
+    "API": {
+        "mongokey": ""
+    },
+
+    "botSettings": {
+        "developer": "",
+        "token": "",
+        "voice": "",
+        "guildID": "",
+
+        "uptimeChannel": "",
+        "uptimeLogs": "",
+        "codeChannel": "",
+        "lastUptimeChannel": "",
+        "lastUptimeMessage": "",
+        "codeLogs": "",
+
+        "premiumRole": ""
+    }
+}
